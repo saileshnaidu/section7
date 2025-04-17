@@ -1,0 +1,39 @@
+
+.login-form{
+    border: 1px solid rgb(0, 250, 71);
+    margin: 50px;
+    width: 20vw;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: 2px 2px 3px rgb(6, 255, 1),-2px -2px 3px rgb(0, 255, 55);
+    border-radius: 20px;
+}
+.Mover-Login{
+    border: 1px solid red;
+    margin: 50px;
+    width: 20vw;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: 2px 2px 7px yellow,-2px -2px 7px yellowgreen;
+    border-radius: 20px;
+}
+table{
+    width: 100%;
+}
+
+td{
+    padding: 5px;
+    border-radius: 10px;
+}
+.parent1{
+    border: 1px solid rgb(0, 0, 0);
+    width:80vw;
+    padding: 10px;
+    /* justify-content: center;
+    text-align: center; */
+    /* align-items: center; */
+}

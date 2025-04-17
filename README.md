@@ -1,9 +1,8 @@
-# section7
-Lab Experiments
-Instructions
-1. Install NodesJs
-2. Install VS Code
-3. Setup Spring Boot Tool
-4. Install Postman
-5. Install MYSQL Server
-6. Install MYSQL Workbench
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
